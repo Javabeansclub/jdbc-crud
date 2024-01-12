@@ -1,0 +1,13 @@
+package com.jdbc.main;
+
+import java.util.Scanner;
+
+public class MainClass {
+	public static void main(String args[] ) {
+		DataBaseService dbServ=new DataBaseService();
+		try(Scanner inp=new Scanner(System.in):){
+			
+		}
+	}
+
+}
